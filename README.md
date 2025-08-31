@@ -14,8 +14,8 @@ This project implements an **8-bit binary subtractor** using **Verilog HDL** on 
 ---
 
 ## Files
-- `subtractor_8bit.v` – 8-bit subtractor module
-- `tb_subtractor_8bit.v` – Testbench for simulation
+- `design.sv` – 8-bit subtractor module
+- `testbench.sv` – Testbench for simulation
 
 ---
 
